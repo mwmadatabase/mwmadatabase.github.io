@@ -23,12 +23,12 @@ height: 12px;
 }
 
 ::-webkit-scrollbar-track {
-border: 1px solid black;
+border: 1px solid Black;
 border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
-background: black;  
+background: Black;  
 border-radius: 10px;
 }
 
