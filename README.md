@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>My Example</title>
+</head>
 
 <!-- CSS -->
 <style>
@@ -36,7 +37,6 @@ border-radius: 10px;
 background: #000000;  
 }
 </style>
-</head>
 <body>
 
 <!-- HTML -->
