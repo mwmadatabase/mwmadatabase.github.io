@@ -28,12 +28,12 @@ border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
-background: yellowgreen;  
+background: black;  
 border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-background: #88ba1c;  
+background: #000000;  
 }
 </style>
 </head>
