@@ -16,7 +16,7 @@ border: none;
 padding: 5px;
 font: 24px/36px sans-serif;
 width: 100%;
-height: 100%;
+height: 200px;
 overflow: scroll;
 }
 
