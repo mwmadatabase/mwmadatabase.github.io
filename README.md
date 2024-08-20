@@ -5,10 +5,6 @@
 
 <!-- CSS -->
 <style>
-/* Force scrollbars onto browser window */
-body {
-margin-bottom: 200%;
-}
 
 /* Box styles */
 .myBox {
@@ -27,7 +23,7 @@ height: 12px;
 }
 
 ::-webkit-scrollbar-track {
-border: 1px solid yellowgreen;
+border: 1px solid black;
 border-radius: 10px;
 }
 
