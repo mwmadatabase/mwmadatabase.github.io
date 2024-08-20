@@ -15,8 +15,8 @@ margin-bottom: 200%;
 border: none;
 padding: 5px;
 font: 24px/36px sans-serif;
-width: 200px;
-height: 200px;
+width: 100%;
+height: 100%;
 overflow: scroll;
 }
 
